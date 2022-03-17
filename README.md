@@ -1,1 +1,3 @@
-# dovops-code2
+# maven-project
+
+Simple Maven Project
